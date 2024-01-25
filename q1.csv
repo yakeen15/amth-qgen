@@ -1,3 +1,7 @@
-QuestionID,QuestionText,Options,CorrectAnswer
-1,What is the square root of $25$?,1;5;7;10,5
-2,Solve the equation $2x + 3 = 7$.,2;3;4;5,2
+QuestionID,QuestionText
+1,What is the square root of $25$?
+2,Solve the equation $2x + 3 = 7$.
+3,Compute the integral $\int_{0}^{1} x^2 dx$
+4,Find the derivative of $f(x) = e^{2x}$
+5,Simplify the expression $\frac{2}{3} \times \frac{5}{4}$
+6,Explain $H_2O$
