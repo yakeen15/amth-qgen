@@ -1,4 +1,14 @@
 QuestionID,QuestionText
 1,"Let $X$ be a set and $T$ be the collection of all subsets of $X$ whose complements are finite together with empty set $\phi$. Show that $T$ is a topology on $X$."
 2,"Let $\{T_i:i\in T\}$ be any collection of topologies on a set $X$. Then the intersection $\cap_iT_i$ is also a topology."
-3,""
+3,"Let $(X,T)$ be a TS. Then prove that the class of closed subsets $F$ of $X$ possesses the following properties\\(i) $X$ and $\phi$ are closed (both belong to $F$)\\(ii) The intersection of any family of sets in $T$ belongs to F\\ (iii) The union of any two sets in $F$ belongs to $F$."
+4,"The union of an infinite family of closed sets in a topological space need not be closed - justify this statement"
+5,"A subset $A$ of a topological space $X$ is closed if and only if $A$ contains each of its limit points ie $A\subset A'$".
+6,"If $A$ is a non-empty subset of TS $(X,T)$, then $T_A=\{(G\cap A):G\in T\}$."
+7,"The closure of any set is a closed set."
+8,"Let $(X,T)$ be a TS and $A,B,\subseteq X$, then\\(i)$\phi'=\phi$\\(ii)$x\in A'\rightarrow x\in(A-\{x\})'$\\(iii)$A\subseteq B\rightarrow A'\subseteq B'$\\(iv)$(A\cap B)'\subseteq A'\cap B'$\\(v)$(A\cup B)'=A'\cup B'$"
+9,"Let $(X,T)$ be a TS and $A,B,\subseteq X$, then\\(i)$\overline{\phi}=\phi,\overline{X}=X$\\(ii)$A\subseteq B\rightarrow \overline{A}\subseteq \overline{B}$\\(iv)$\overline{A\cap B}\subseteq \overline{A}\cap \overline{B}$\\(v)$\overline{A\cup B}=\overline{A}\cup\overline{B}$"
+10,"Let $(X,T)$ be a topological space and $A\subseteq X$, then $\overline{A}$ is the smallest closed superset of A."
+11,"Prove that the following statements for a TS $(X,T)$ and $A\subseteq X$ are equivalent\\(i)$A$ is closed\\(ii)$\overline{A}=A$\\(iii)$A$ contains all of its limit points"
+12,"Let $(X,T)$ be a TS, and $A\subseteq X$, then\\(i)$int(A)$ is an open set\\(ii)$int(A)$ is the largest open set contained $A$\\(iii)$A$ is open if and only if $int(A)=A$"
+13,"Let $(X,T)$ be a TS, and $A\subseteq X$, then\\(i)$int(A)=$The set of all hose points of A which are not the limit points of $A^c$\\(ii)$(int(A)^c)=\overline{(A^c)}$ or $X-int(A)=\overline{X-A}$\\(iii)$int(A)=(\overline{A^c})^c\rightarrow int(A)=X-(\overline{X-A})$\\(iv)$[int(A^c)]^c=\overline{A}\rightarrow X-int(X-A)=\overline{A}$"

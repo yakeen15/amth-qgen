@@ -1,0 +1,7 @@
+QuestionID,QuestionText
+1,"Given $X=\{a,b,c,d,f\}, T=\{\phi, X, \{a\}, \{a,b\}, \{a,c,d\}, \{a,b,c,d\}, \{a,b,f\}\}$ Find all the nbds of the point \\(i)$f$\\(ii)$c$"
+2,"Find the interior, exterior, boundary for $A=\{b,c,d\}$ on the topology $X=\{a,b,c,d,f\}, T=\{\phi, X, \{a\}, \{c,d\}, \{a,c,d\}, \{b,c,d,f\}\}$."
+3,"Find the interior, exterior, boundary for $B=\{a,b,c\}$ on the topology $X=\{a,b,c,d,f\}, T=\{\phi, X, \{a\}, \{a,b\}, \{a,c,d\}, \{a,b,c,d\},\{a,b,f\}\}$."
+4,"Let $A=\{a,b,c\}$ and $X=\{a,b,c,d,f\}, T=\{\phi, X, \{a\}, \{c,d\}, \{a,c,d\}, \{b,c,d,f\}\}$ be a TS. Find $A'$ and $\bar{A}$."
+5,"Find the relative topology $T_A$ for $A=\{a,b,f\}$ on the topology $X=\{a,b,c,d,f\}, T=\{\phi, X, \{a\}, \{c,d\}, \{a,c,d\}, \{b,c,d,f\}\}$."
+6,""

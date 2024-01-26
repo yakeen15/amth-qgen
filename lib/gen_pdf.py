@@ -11,6 +11,7 @@ def generate_latex_from_csv(csv_path, output_latex_path):
         # Write the preamble of the LaTeX document
         latex_file.write(r'\documentclass{article}' + '\n')
         latex_file.write(r'\usepackage{tabularx}' + '\n')
+        latex_file.write(r'\usepackage{amssymb}' + '\n')
         latex_file.write(r'\begin{document}' + '\n')
 
         # Iterate through each row in the DataFrame

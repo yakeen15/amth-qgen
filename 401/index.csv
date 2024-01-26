@@ -1,5 +1,10 @@
 id,description
 "001","Verification of topology problems, find topology given a set"
-"002","Theorems related to topology"
+"002","Theorems related to topology, interiors, exteriors etc"
 "003","Comparable topology problems"
-"004", "Find closed, clopen, n-clopen sets"
+"004","Find closed, clopen, n-clopen sets"
+"005","NBD, interior, exterior, boundary, limit points problems"
+"006","Theorems related to bases and subbases"
+"007","Finding topology from subbases"
+"008","Local base theorems"
+"009","Continuity theorems"

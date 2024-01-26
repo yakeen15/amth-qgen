@@ -1,0 +1,5 @@
+QuestionID,QuestionText
+1,"Let $B$ be a base for $(X,T) and $p\in X$$. Then the members of the base $B$ which contain $p$ form a local base at the point $p$"
+2,"A point $p$ for a TS $X$ is a limit point of $A\subset X$ iff each member of some local base $B_p$ at $p$ contains a point of $A$ different from $p$."
+3,"A sequence $<a_1,a_2,\cdots>$ of points in a topological space $X$ converges to $p\in X$ iff each member of some local base $B_p$ at $p$ contains almost all of the terms of the sequence."
+4,"Show that every point $p$ in a discrete space $X$ has a finite local base."

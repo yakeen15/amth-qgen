@@ -1,0 +1,4 @@
+QuestionID,QuestionText
+1,"A function $f:X\rightarrow Y$ is continuous iff the inverse of each member of a base $B$ for $Y$ is an open subset of $X$."
+2,"Let $S$ be a subbase for a topological space $Y$. Then a function $f:X\rightarrow Y$ is continuous uff the inverse of each member of $S$ is an open subset of $X$."
+3,"A function $f:X\rightarrow Y$ is continuous iff the inverse image of every closed subset of $Y$ is a closed subset of $X$."

@@ -1,0 +1,5 @@
+QuestionID,QuestionText
+1,"Let $\mathbb{B}$ be a class of subsets of $X$. Then $\mathbb{B}$ is a base for some topology if\\(i)$X=\cup\{B:B\in\mathbb{B}\}=\cup_{B\in\mathbb{B}}$\\(ii)For any two $B,B*\in\mathbb{B}$, $B\cap B*$ is the union of members of $\mathbb{B}$, equivalently for $p\in B\cap B*$ then there exists a $B_p\in\mathbb{B}$ such that $p\in B_p\subset B\cap B*$"
+2,"Any class of subsets of $X$ is the subbase for a unique topology on $X$. That is, finite intersections of members of the class form a base for a topology in $X$."
+3,"If $\xi$ is a subbase for topologies $T$ and $T^*$ on $X$, then $T=T^*$"
+4,"Let $\mathbb{S}$ be a subbase for $(X,T)$. Show that $\mathbb{S}_A=\{A\cap S:S\in \mathbb{S}\}$ is a relative topology $T_A$ on $A$."
