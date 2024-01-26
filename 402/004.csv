@@ -1,0 +1,9 @@
+QuestionID,QuestionText
+1,"Derive NS equations"
+2,"Derive vorticity transport equation"
+3,"Derive cylindrical NS equations"
+4,"Express NS equation under conservative body forces : $\\\overline{q}\times\overline{\omega}=\overline{\nabla}(\Omega+\frac{q^2}{2}+\frac{P}{\rho})+\nu(\overline{\nabla}\times\overline{\omega})$"
+5,"Derive the non-dimensional NS equations"
+6,"Derive the form for unidirectional flow"
+7,"Derive flow due to an impulsively moved plane boundary using substitution (form an ODE from the NS PDE)"
+8,"Derive expression for steady, laminar flow in circular tubes"

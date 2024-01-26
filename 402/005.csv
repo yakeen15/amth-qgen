@@ -1,0 +1,5 @@
+QuestionID,QuestionText
+1,"$u=9.5(y-24y^2)$m/s, with the other components zero. Display stress components at $y=2.5$mm using $\mu5\times10^{-4}$kgs/$m^2$ and $p=210$kPa. Find $\tau_{xy}$ and $\sigma_{xx}$."
+2,"$u=10(2\frac{y}{\delta}-\frac{y^2}{\delta^2})$ with $\delta=cx^{4/5}$. If $\delta=8$m at $x=1000$m find $v(x,y)$ assuming $w=0$ and $v(x,0)=0$. Display stress components at $(1000,0)$ with $\mu=5\times110^{-5}$Ns/$m^2$ and $p=100$kPa."
+3,"6.71 problemset 1"
+4,""

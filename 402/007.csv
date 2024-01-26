@@ -1,0 +1,7 @@
+QuestionID,QuestionText
+1,"Ex 2.3 acheson elementary viscous flow"
+2,"Ex 2.4 acheson elementary viscous flow"
+3,"A viscous fluid is initially at rest between two infinite planes at $y=0,h$. At time $t=0$ the plane at $y=h$ is set in motion implusively so that it has constant velocity $U$ in the x-direction for $t>0$. Show that after the impulse the velocity in the fluid is \[\frac{Uy}{h}+\sum_{n=1}^\infty(-1)^nsin(\frac{n\pi y}{h})exp(-\frac{n^2\pi^2}{h^2}\nu t)\]"
+4,"Ex 2.5 acheson elementary viscous flow"
+5,"Ex 2.6 acheson elementary viscous flow"
+6,""
