@@ -1,0 +1,2 @@
+QuestionID,QuestionText
+1, "Verify if $X=\{a,b,c,d,e\}, T=\{X,\phi,\{a\},\{c,d\},\{a,c,d\},\{b,c,d,e\}\}$ is a topology. Find all the closed sets."

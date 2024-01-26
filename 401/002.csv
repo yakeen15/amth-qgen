@@ -1,0 +1,4 @@
+QuestionID,QuestionText
+1,"Let $X$ be a set and $T$ be the collection of all subsets of $X$ whose complements are finite together with empty set $\phi$. Show that $T$ is a topology on $X$."
+2,"Let $\{T_i:i\in T\}$ be any collection of topologies on a set $X$. Then the intersection $\cap_iT_i$ is also a topology."
+3,""
