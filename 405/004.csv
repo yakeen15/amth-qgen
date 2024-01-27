@@ -1,0 +1,4 @@
+QuestionID,QuestionText
+1,"For the given metric tensor \[ds^2=3dx^2+4dy^2+8dz^2-6dxdy-25dydz+27dzdx\] find\\(a)Find $g_{ij}$ and $g^{ij}$\\(b)Verify $g_{ij}g^{ij}=I_3$"
+2,"For the given metric tensor \[ds^2=\frac{1}{1-kr^2}dt^2-R^2(t)\{dr^2+r^2d\theta^2+r^2sin^2\theta d\phi^2\}\] find all the non-zero CS of the first and second kind."
+3,"For the given metric tensor \[ds^2=e^{-\nu(t)}dt^2-\frac{R^2(t)}{1-kr^2}\{dr^2+r^2d\theta^2+e^{\lambda(t)}d\phi^2\}\] find all the non-zero CS of the first and second kind."

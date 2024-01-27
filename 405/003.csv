@@ -1,0 +1,6 @@
+QuestionID,QuestionText
+1,"Prove that CS are not tensors"
+2,"$g_{lk}\{^l_{ij}\}=[ij,k]$"
+3,"$[ij,k]+[jk,i]=\frac{\partial g_{ij}}{\partial x^j}$"
+4,"$\frac{\partial g^{im}}{\partial x^l}=-g^{ij}\{^m_{jl}\}-g^{km}\{^i_{kl}\}$"
+5,"$\frac{\partial}{\partial x^l}(ln\sqrt{g})=\{^i_{li}\}$"

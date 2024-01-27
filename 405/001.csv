@@ -1,0 +1,6 @@
+QuestionID,QuestionText
+1,"Show that the number of independent components of the symmetric/skew symmetric tensors are $\frac{n(n+1)}{2}$ and $\frac{n(n-1)}{2}$ respectively."
+2,"Show that $A^\alpha A_\alpha$ is an invariant."
+3,"Show that \\(a)sum and difference of two tensors is a tensor of same rank\\(b)multiplication of two tensors with rank $m$ and $n$ will produce another tensor of rank $m+n$."
+4,"For the kronecker delta,prove that\\(a)\frac{\partial x^i}{\partial x^j}=\frac{\overline{\partial x^i}}{\overline{\partial x^j}}=\delta^i_j\\(b)\delta^i_jA^{jk}=\A^{ik}\\(c)\delta^i_i=n\\(d)\delta^i_j\delta^j_k=\delta^i_k\\(e)\delta^i_j\delta^j_i=n"
+5,"Show the contraction of tensors for $A^{pqr}_{st}$ with $r=t$."

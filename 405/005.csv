@@ -1,0 +1,3 @@
+QuestionID,QuestionText
+1,"Show that if \[C^\alpha_\beta=A^\alpha_\beta+B^\alpha_\beta\] then \[C^\alpha_{\beta,i}=A^\alpha_{\beta,i}+B^\alpha_{\beta,i}\]"
+2,"Show that if \[C^i_{jk}=A^i_jB_k\] then show that \[C^i_{jk,\alpha}=A^i_jB_{k,\alpha}+B_kA^i_{j,\alpha}\]"
