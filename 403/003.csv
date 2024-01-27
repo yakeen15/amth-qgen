@@ -1,0 +1,5 @@
+QuestionID,QuestionText
+1,"Find the mass of the atmosphere."
+2,"Find the mass of troposphere."
+3,"At approximately what height above sea level does half of the mass of the atmosphere lie above and other half lie below? Assume $H=8$km and neglect the small vertical variation of $g$ with height."
+4,"Assume exponential pressure and dnesity dependence with scale height $7.5$km. Estimate the heights of the atmosphere at which \\(a) the ar density is equal to $1kgm^{-3}$\\(b)the height at which the pressure is equal to $1$hPa."

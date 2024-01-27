@@ -1,0 +1,4 @@
+QuestionID,QuestionText
+1,"Show that specific humidity $q$ can be expressed as $\frac{w}{1+w}$ where $w$ is the mass mixing ratio."
+2,"Show that the mass mixing ratio $w$ can be expressed as $\epsilon\frac{e}{p-e}$, where $\epsilon$ is the ratio of the dry and vapor gas constants, $p$ is the air pressure an $e$ is the vapor pressure."
+3,"Show that the number fraction $f_v$ can be expressed as \[\frac{q}{\epsilon-(\epsilon-1)q}\]where $\epsilon$ is the ratio of the dry and vapor gas constants and $q$ is the specific humidity."

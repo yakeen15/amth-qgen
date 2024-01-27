@@ -1,0 +1,12 @@
+QuestionID,QuestionText
+1,"Derive the ideal gas law $p=\frac{1}{3}mnv^2=nkT$"
+2,"Derive the maxwell boltzmann distribution"
+3,"Derive the equation defining hydrostatic equilibrium, $\frac{dp}{dz}=-\rho g$"
+4,"Show that the vertical structure of the pressure is of the form \[p(z)=p_0e^{-z/H(z)}\]"
+5,"Derive the energy of a point mass in the atmosphere."
+6,"Derive the conditions for escape velocity, also discuss why we do not lose our atmosphere."
+7,"Derive the first law of thermodynamics."
+8,"From enthalpy, derive the second law of thermodynamics."
+9,"Derive an expression for the potential temperature."
+10,"Derive the dry adiabatic lapse rate."
+11,"Derive the differential equation of static stability \[\frac{d^2}{dt^2}\Delta z+N^2\Delta z=0\] where \[N=(\frac{g}{\theta}\frac{d\theta}{dz})^{1/2}\] and explain the Brunt-Vaisala frequency"
