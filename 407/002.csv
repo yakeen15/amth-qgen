@@ -1,0 +1,12 @@
+QuestionID,QuestionText
+1,"Is the squared sum of independent trials with result $\{-1,1\}$ a martingale?"
+2,"Is the sum of independent trials with result $\{-1,1\}$ a martingale?"
+3,"Is the product of independent trials with result $\{-1,1\}$ a martingale?"
+4,"Is brownian motion a martingale?"
+5,"Is $e^{B(t)-\frac{t}{2}}$ a martingale?"
+6,"2.8.1 ubbo martingale"
+7,"2.8.2 ubbo martingale"
+8,"2.8.3 ubbo martingale"
+9,"2.8.4 ubbo martingale"
+10,"2.8.5 ubbo martingale"
+11,"2.8.7 ubbo martingale"
