@@ -1,0 +1,4 @@
+QuestionID,QuestionText
+1,"$\int_0^{\pi/2}e^{ixcost}dt$ as $x\to\infty$"
+2,"Given \[J_n(x)=\frac{1}{\pi}cos(xsint-nt)dt\]Find the leading behaviour of $J_n(n)$ as $n\to\infty$"
+3,"Estimate \[I(x)=\int_{-3}^4cos(\lambda sinh^2x)\sqrt{1+x^2}dx\]as $\lambda\to\infty$"

@@ -1,0 +1,6 @@
+QuestionID,QuestionText
+1,"Find asymptotic expansion using watson's lemma \[k_0(x)=\int_1^\infty(s^2-1)^{-1/2}e^{-xs}ds\]"
+2,"$\int_0^\pi e^{-xt}t^{-1}sintdt$ as $x\to\infty$"
+3,"$\int_0^{\pi/4} e^{-xt}(1+cost)^{1/2}dt$ as $x\to\infty$"
+4,"$\int_0^\infty e^{-xt^2}sintdt$ as $x\to\infty$"
+5,"$\int_0^1e^{-xt^3}$ as $x\to\infty$"
