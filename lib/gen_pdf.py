@@ -8,12 +8,14 @@ def create_temp_csv(csv_files, num_questions):
     
     for csv_file, num_questions_per_file in zip(csv_files, num_questions):
         df = pd.read_csv(csv_file)
-        df = df[df['QuestionText'] != ""]  # Remove rows with empty QuestionText
+        
+        selected_questions = []
+        df = df.dropna()
+        print(df)
         if num_questions_per_file > len(df):
             selected_questions = df['QuestionText'].tolist()
         else:
             selected_questions = random.sample(df['QuestionText'].tolist(), num_questions_per_file)
-        selected_questions = random.sample(df['QuestionText'].tolist(), num_questions_per_file)
         
         prefix = csv_file.split('.')[0]
         new_question_ids = [f"{prefix}_{i+1}" for i in range(num_questions_per_file)]

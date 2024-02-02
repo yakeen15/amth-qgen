@@ -1,7 +1,7 @@
 QuestionID,QuestionText
-401/002_1,Let $X$ be a set and $T$ be the collection of all subsets of $X$ whose complements are finite together with empty set $\phi$. Show that $T$ is a topology on $X$.
-401/002_2,"Let $(X,T)$ be a TS, and $A\subseteq X$, then\\(i)$\stackrel{\circ}{A}=$The set of all hose points of A which are not the limit points of $A^c$\\(ii)$(\stackrel{\circ}{A}^c)=\overline{(A^c)}$ or $X-\stackrel{\circ}{A}=\overline{X-A}$\\(iii)$\stackrel{\circ}{A}=(\overline{A^c})^c\rightarrow \stackrel{\circ}{A}=X-(\overline{X-A})$\\(iv)$[\stackrel{\circ}{A^c}]^c=\overline{A}\rightarrow X-int(X-A)=\overline{A}$"
-401/003_1," """""
-401/003_2,"Find the mutually non-comparable topologies for the set \{a,b,c\}"
-401/004_1,
-401/004_2,"Verify if $X=\{a,b,c,d,e\},T=\{X,\phi,\{a\},\{c,d\},\{a,c,d\},\{b,c,d,e\}\}$ is a topology. Find all the closed sets, clopen and n-clopen sets."
+401/001_1,"Verify if topology : $X=\{a,b,c,d,e\}, T=\{X,\phi,\{a\},\{c,d\},\{a,c,d\},\{b,c,d,e\}\}$"
+401/001_2,"Verify if topology : $X=\{a,b\}, T=\{\phi,X,\{a\},\{b\}\}$"
+401/002_1,"Let $(X,T)$ be a TS. Then prove that the class of closed subsets $F$ of $X$ possesses the following properties\\(i) $X$ and $\phi$ are closed (both belong to $F$)\\(ii) The intersection of any family of sets in $T$ belongs to F\\ (iii) The union of any two sets in $F$ belongs to $F$."
+401/002_2,"Let $(X,T)$ be a TS, and $A\subseteq X$, then\\(i)$\stackrel{\circ}{A}$ is an open set\\(ii)$\stackrel{\circ}{A}$ is the largest open set contained $A$\\(iii)$A$ is open if and only if $\stackrel{\circ}{A}=A$"
+401/003_1,"Find the mutually non-comparable topologies for the set \{a,b,c\}"
+401/003_2,"Construct three topologies $T_1,T_2$ and $T_3$ on \{a,b,c\} such that $T_1\subset T_2\subset T_3$"

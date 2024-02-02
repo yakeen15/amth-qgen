@@ -1,15 +1,15 @@
 from lib.gen_pdf import compile_and_clean, generate_latex_from_csv, create_temp_csv
 import pandas as pd
 import os
+from math import floor
 
 def parse_input(input_data):
     pairs = input_data.split("),(")
 
     pairs = [tuple(map(int, pair.replace("(", "").replace(")", "").split(','))) for pair in pairs]
 
-    first_elements = [pair[0] for pair in pairs]
+    first_elements = [pair[0]-1 for pair in pairs]
     second_elements = [pair[1] for pair in pairs]
-
     return [first_elements, second_elements]
 
 def list_topic(csv_file):    
@@ -67,8 +67,14 @@ def gen_interface():
             topic_list = []
             for i in topics:
                 topic_list.append(directory+r'/'+files[i])
-            create_temp_csv(topic_list,num_q)
-            generate_latex_from_csv('temp.csv',qname)
-            compile_and_clean(qname)
+            n = int(input("How many questions on this setup? (Default is 1)"))
+            if type(n)!=int or n!=floor(n):
+                n=1
+            i=0
+            while i<n:
+                create_temp_csv(topic_list,num_q)
+                generate_latex_from_csv('temp.csv',qname.replace(".", "-"+str(i)+"."))
+                compile_and_clean(qname.replace(".", "-"+str(i)+"."))
+                i=i+1
 
 gen_interface()
