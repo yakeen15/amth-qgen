@@ -13,4 +13,4 @@ QuestionID,QuestionText
 12,"Derive entropy as \[S=C_p\text{ln}(TP^{-R/C_p})+\text{constant}\]"
 13,"Define CAPE. Show that the mathematical expression for the CAPE is \[R\int_{PC}^{PA}(T_p-T_s)d\text{ln}p\]"
 14,"From static stability, show that \[\frac{d^2}{dt^2}\Delta z+N^2\Delta z=0\] where $N$ is the brunt vaisala frequency."
-15,""
+15,"Formulate the expression for CINE."
