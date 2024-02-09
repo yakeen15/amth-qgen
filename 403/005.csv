@@ -2,3 +2,5 @@ QuestionID,QuestionText
 1,"Derive the potential temperature for moist air."
 2,"Derive the psychometric equation."
 3,"Show that the relative humidity can be expressed as $e/e_s$."
+4,"Show that the lifting condensation level (LCL) can be expressed as \[Z_{LCL}=\frac{HH_v}{H-H_v}\ln\left(\frac{e_{s_0}}{f_vp_0}\right)\]"
+5,"State the Clausius-Claperyon equation and then prove that \[e_s(T)=e_{s_0}exp(\frac{l_v}{R_vT_0})exp(-\frac{l_v}{R_vT})\]"
